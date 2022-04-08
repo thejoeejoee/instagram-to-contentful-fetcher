@@ -1,0 +1,2 @@
+click==8.1.2
+instagram-scraper==1.10.6
